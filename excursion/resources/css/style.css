@@ -1,7 +1,12 @@
 * {
-	font-family:Verdana;
+	font-family:Verdana, sans-serif;
 	text-align:center;
 	background-color:black;
+}
+
+body {
+	margin-top:35px;
+	margin-bottom:35px;
 }
 
 h1 {
@@ -17,12 +22,13 @@ h1 {
 h2 {
 	font-size:42px;
 	color:white;
-	font-weight:300;
+	font-weight:bold;
 }
 
-h3 {
+p {
 	font-size:21px;
 	color:gray;
+	font-weight:thin;
 }
 
 #copyright {
